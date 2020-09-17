@@ -1,3 +1,3 @@
-# Hi 👋 Pulkit Jasti,
+# Hi 👋, I'm Pulkit Jasti,
 ## A humble little javaScript developer<br><br>
 ![](images/anime-6.gif)
