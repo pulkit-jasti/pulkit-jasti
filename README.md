@@ -1,3 +1,3 @@
 # Hi 👋, I'm Pulkit Jasti,
 ## A humble little javaScript developer<br><br>
-![](images/anime-6.gif)
+<img align="right" alt="GIF" src="images/anime-6.gif" />
