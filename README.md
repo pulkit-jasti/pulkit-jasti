@@ -10,9 +10,20 @@
 <a href="http://twitter.com/JastiPulkit">
 <img src="https://img.shields.io/badge/Twitter-JastiPulkit-blue?style=for-the-badge&logo=twitter" />
 </a>
+<br>
 
-<a href="http://twitter.com/JastiPulkit">
+<a href="https://www.linkedin.com/in/pulkit-jasti/">
 <img src="https://img.shields.io/badge/LinkedIn-pulkit jasti-0e76a8?style=for-the-badge&logo=LinkedIn" />
+</a>
+<br>
+
+<a href="https://github.com/pulkit-jasti">
+<img src="https://img.shields.io/badge/GitHub-pulkit jasti-000000?style=for-the-badge&logo=GitHub" />
+</a>
+<br>
+
+<a href="https://www.instagram.com/pulkit_in_disguise/">
+<img src="https://img.shields.io/badge/GitHub-pulkit_in_disguise-ec0a6d?style=for-the-badge&logo=instagram" />
 </a>
 
 <br><br>
