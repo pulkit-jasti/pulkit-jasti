@@ -6,7 +6,7 @@
 <br><br>
 
 ## 📫 How to reach me?
-
+<p align="left">
 <a href="http://twitter.com/JastiPulkit">
 <img src="https://img.shields.io/badge/Twitter-JastiPulkit-blue?style=for-the-badge&logo=twitter" />
 </a>
@@ -25,6 +25,7 @@
 <a href="https://www.instagram.com/pulkit_in_disguise/">
 <img src="https://img.shields.io/badge/GitHub-pulkit_in_disguise-ec0a6d?style=for-the-badge&logo=instagram" />
 </a>
+</p>
 
 <br><br>
 
