@@ -23,7 +23,7 @@
 <br>
 
 <a href="https://www.instagram.com/pulkit_in_disguise/">
-<img src="https://img.shields.io/badge/GitHub-pulkit_in_disguise-ec0a6d?style=for-the-badge&logo=instagram" />
+<img src="https://img.shields.io/badge/Instagram-pulkit_in_disguise-ec0a6d?style=for-the-badge&logo=instagram" />
 </a>
 </p>
 
