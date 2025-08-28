@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-pulkit jasti-0e76a8?style=for-the-badge&logo=LinkedIn" />
 </a>
 
-<br><br>
+<br>
 
 ![Pulkit GitHub statistic](https://github-readme-stats.vercel.app/api?username=pulkit-jasti&show_icons=true)
 
