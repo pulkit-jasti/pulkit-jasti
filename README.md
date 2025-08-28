@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/pulkit-jasti/">
 <img src="https://img.shields.io/badge/LinkedIn-pulkit jasti-0e76a8?style=for-the-badge&logo=LinkedIn" />
 </a>
-<br>
 
 <br><br>
 
