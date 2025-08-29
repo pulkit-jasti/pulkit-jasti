@@ -1,6 +1,7 @@
 # Hi 👋, I'm Pulkit Jasti,
 
-I'm a Computer Science Engineering graduate, currently studying M.S. in Human Computer Interaction at Arizona State University. 
+* Computer Science Engineering graduate, currently studying M.S. in Human Computer Interaction at Arizona State University.
+* I'm a backend developer building cool projects with python
 
 <img alt="Cyberpunk GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1uNnljcDM3NnVxZTc3cHhzY3YwMHB1aGFpbGJ6dTFmYmxybnBxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsoMtBuP1Ahpu/giphy.gif" />
 <br>
