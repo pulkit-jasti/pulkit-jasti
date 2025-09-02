@@ -6,6 +6,8 @@
 <img alt="Cyberpunk GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1uNnljcDM3NnVxZTc3cHhzY3YwMHB1aGFpbGJ6dTFmYmxybnBxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsoMtBuP1Ahpu/giphy.gif" />
 <br>
 
+<!-- https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU4dTU4Z2tpYjc3ejV6MHhwamVkbGp0b2g4MmtxcGRnY3E0Z21uMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efezhDCJ8FwHtXl67I/giphy.gif -->
+
 ## 📫 How to reach me?
 
 <a href="https://www.linkedin.com/in/pulkit-jasti/">
